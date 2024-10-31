@@ -85,7 +85,7 @@ In certain situations, you may need to manually start or stop RoCS services. Fol
 * Manual start the `rocs-svr` service:
 
 ```shell
-sudo systemctl start rocs_svr.service
+sudo systemctl start rocs-svr.service
 ```
 
 * Manual stop `rocs-svr` service:
